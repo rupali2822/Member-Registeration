@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MemberApp</string>
+
+    <string-array name="Religions">
+        <item>-- Select --</item>
+        <item>Hindu</item>
+        <item>Muslim</item>
+        <item>Christians</item>
+        <item>Sikhs</item>
+        <item>Buddist</item>
+        <item>Jain</item>
+
+    </string-array>
+
+    <string-array name="Cast">
+        <item>-- Select --</item>
+        <item>Maratha</item>
+        <item>Brahmins</item>
+        <item>Dalits</item>
+        <item>OBCs</item>
+        <item>ST</item>
+        <item>Kshatriyas</item>
+
+    </string-array>
+
+</resources>
